@@ -1,15 +1,6 @@
 
 ## Hi there 👋! Nishant here!
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SharmaNishant485&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaNishant485&layout=compact&theme=radical" />
-    </td>
-  </tr>
 </table>
 
 ## 🌐 Connect with Me  
