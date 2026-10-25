@@ -27,7 +27,8 @@ I'm a final-year B.Tech student at NIT Bhopal, passionate about Software Develop
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SharmaNishant485&show_icons=true&theme=dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaNishant485&layout=compact&theme=dark" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaNishant485&layout=compact&theme=dark&hide=jupyter%20notebook&langs_count=10&size_weight=0.5&count_weight=0.5" height="180"/>
 </p>
 
 
